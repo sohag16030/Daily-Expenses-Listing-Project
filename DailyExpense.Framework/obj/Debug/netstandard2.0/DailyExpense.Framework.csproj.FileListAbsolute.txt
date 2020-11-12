@@ -1,0 +1,12 @@
+H:\ASPDotNetMVC\DailyExpense\DailyExpense.Framework\bin\Debug\netstandard2.0\DailyExpense.Framework.deps.json
+H:\ASPDotNetMVC\DailyExpense\DailyExpense.Framework\bin\Debug\netstandard2.0\DailyExpense.Framework.dll
+H:\ASPDotNetMVC\DailyExpense\DailyExpense.Framework\obj\Debug\netstandard2.0\DailyExpense.Framework.csprojAssemblyReference.cache
+H:\ASPDotNetMVC\DailyExpense\DailyExpense.Framework\obj\Debug\netstandard2.0\DailyExpense.Framework.AssemblyInfoInputs.cache
+H:\ASPDotNetMVC\DailyExpense\DailyExpense.Framework\obj\Debug\netstandard2.0\DailyExpense.Framework.AssemblyInfo.cs
+H:\ASPDotNetMVC\DailyExpense\DailyExpense.Framework\bin\Debug\netstandard2.0\DailyExpense.Framework.pdb
+H:\ASPDotNetMVC\DailyExpense\DailyExpense.Framework\obj\Debug\netstandard2.0\DailyExpense.Framework.dll
+H:\ASPDotNetMVC\DailyExpense\DailyExpense.Framework\obj\Debug\netstandard2.0\DailyExpense.Framework.pdb
+H:\ASPDotNetMVC\DailyExpense\DailyExpense.Framework\bin\Debug\netstandard2.0\DailyExpense.Data.dll
+H:\ASPDotNetMVC\DailyExpense\DailyExpense.Framework\bin\Debug\netstandard2.0\DailyExpense.Data.pdb
+H:\ASPDotNetMVC\DailyExpense\DailyExpense.Framework\obj\Debug\netstandard2.0\DailyExpense.Framework.csproj.CopyComplete
+H:\ASPDotNetMVC\DailyExpense\DailyExpense.Framework\obj\Debug\netstandard2.0\DailyExpense.Framework.csproj.CoreCompileInputs.cache
